@@ -17,9 +17,9 @@ git clone git@github.com:JamesCostello-dev/Note-Taker.git > npm i express > npm 
 
 ## Usage
 
-The user will use this application to save notes
+Simple application to takes notes.
 
-![Alt text](assets/img/screenshot.jpg "README Generator")
+https://aqueous-wave-11572.herokuapp.com/notes
 
 ## Credits
 
