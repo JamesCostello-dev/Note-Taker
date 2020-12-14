@@ -13,7 +13,7 @@ Note taking app used to write and save notes.
 
 ## Installation
 
-N/a
+git clone git@github.com:JamesCostello-dev/Note-Taker.git > npm i express > npm i uuid
 
 ## Usage
 
